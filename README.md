@@ -77,28 +77,6 @@ Audio Streaming Response
 
 ---
 
-## 📂 Project Structure
-
-```
-IntelliBot/
-│
-├── backend/
-│   ├── main.py
-│   ├── functions/
-│   │     ├── openai_requests.py
-│   │     ├── text_to_speech.py
-│   │     └── database.py
-│   └── .env.example
-│
-├── frontend/
-│   ├── src/
-│   └── components/
-│
-└── README.md
-```
-
----
-
 ## ⚙️ How It Works
 
 ### 🎙️ Step 1 — User Voice Input
