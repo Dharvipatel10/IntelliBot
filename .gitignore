@@ -15,12 +15,8 @@ lerna-debug.log*
 # Python
 /backend/venv
 /frontend/node_modules
-.venv/
-__pycache__/
-*.pyc
 
 # Node
-node_modules/
 dist/
 build/
 
