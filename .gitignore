@@ -10,10 +10,11 @@ lerna-debug.log*
 # Secrets
 .env
 .env.*
-backend/.env
+/backend/.env
 
 # Python
-venv/
+/backend/venv
+/frontend/node_modules
 .venv/
 __pycache__/
 *.pyc
